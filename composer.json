@@ -1,0 +1,35 @@
+{
+    "name": "vitalik74/nds",
+    "version": "0.1.0",
+    "description": "The class for work with NDS (Russian tax) ",
+    "keywords": [
+        "nds",
+        "russian tax",
+        "tax"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tsibikov Vitaliy",
+            "email": "tsibikov_vit@mail.ru",
+            "homepage": "http://tsibikov.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/vitalik74/nds/issues?state=open",
+        "source": "https://github.com/vitalik74/nds",
+        "email": "tsibikov_vit@mail.ru"
+    },
+    "require": {
+      "php": ">=5.3.0"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "vitalik74\\nds\\": ""
+        }
+    }
+}
