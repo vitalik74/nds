@@ -1,5 +1,5 @@
 <?php
-namespace vitalik74;
+namespace vitalik74\nds;
 
 use Exception;
 
